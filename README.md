@@ -85,12 +85,6 @@ To train your own model:
 
 ---
 
-## 📸 Demo
-
-> Coming soon – will be added as GIFs or YouTube link!
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
