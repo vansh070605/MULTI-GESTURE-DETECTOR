@@ -94,4 +94,3 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Vansh Agrawal**  
-[GitHub](https://github.com/vansh070605) | [LinkedIn](https://www.linkedin.com/in/vansh070605)
